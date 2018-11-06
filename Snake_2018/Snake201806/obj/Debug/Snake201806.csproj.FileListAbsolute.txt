@@ -1,0 +1,15 @@
+C:\Users\hunostor\source\repos\Snake_2018\Snake_2018\Snake201806\bin\Debug\Snake201806.exe.config
+C:\Users\hunostor\source\repos\Snake_2018\Snake_2018\Snake201806\bin\Debug\Snake201806.exe
+C:\Users\hunostor\source\repos\Snake_2018\Snake_2018\Snake201806\bin\Debug\Snake201806.pdb
+C:\Users\hunostor\source\repos\Snake_2018\Snake_2018\Snake201806\obj\Debug\Snake201806.csprojAssemblyReference.cache
+C:\Users\hunostor\source\repos\Snake_2018\Snake_2018\Snake201806\obj\Debug\MainWindow.g.cs
+C:\Users\hunostor\source\repos\Snake_2018\Snake_2018\Snake201806\obj\Debug\App.g.cs
+C:\Users\hunostor\source\repos\Snake_2018\Snake_2018\Snake201806\obj\Debug\Snake201806_MarkupCompile.cache
+C:\Users\hunostor\source\repos\Snake_2018\Snake_2018\Snake201806\obj\Debug\Snake201806_MarkupCompile.lref
+C:\Users\hunostor\source\repos\Snake_2018\Snake_2018\Snake201806\obj\Debug\MainWindow.baml
+C:\Users\hunostor\source\repos\Snake_2018\Snake_2018\Snake201806\obj\Debug\Snake201806.g.resources
+C:\Users\hunostor\source\repos\Snake_2018\Snake_2018\Snake201806\obj\Debug\Snake201806.Properties.Resources.resources
+C:\Users\hunostor\source\repos\Snake_2018\Snake_2018\Snake201806\obj\Debug\Snake201806.csproj.GenerateResource.cache
+C:\Users\hunostor\source\repos\Snake_2018\Snake_2018\Snake201806\obj\Debug\Snake201806.csproj.CoreCompileInputs.cache
+C:\Users\hunostor\source\repos\Snake_2018\Snake_2018\Snake201806\obj\Debug\Snake201806.exe
+C:\Users\hunostor\source\repos\Snake_2018\Snake_2018\Snake201806\obj\Debug\Snake201806.pdb
