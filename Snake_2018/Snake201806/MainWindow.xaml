@@ -8,6 +8,12 @@
         KeyDown="Window_KeyDown"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <TextBlock Margin="60" x:Name="GamePlayTextBlock"
+                   FontSize="20"
+                   Visibility="Hidden"
+                   HorizontalAlignment="Center"
+                   >
+            A játék indításához a nyíl gombok valamelyikével el kell indítani kígyó fejét.
+        </TextBlock>
     </Grid>
 </Window>

@@ -12,11 +12,25 @@ namespace Snake201806.Model
     /// </summary>
     class Arena
     {
+        private MainWindow View;
+
+        /// <summary>
+        /// Constructor function, create class
+        /// </summary>
+        /// <param name="view"></param>
+        public Arena(MainWindow view)
+        {
+            this.View = view;
+
+            View.GamePlayTextBlock.Visibility = System.Windows.Visibility.Visible;
+        }
+
         internal void KeyDown(KeyEventArgs e)
         {
             switch (e.Key)
             {
                 case Key.Left:
+                    View.GamePlayTextBlock.Visibility = System.Windows.Visibility.Hidden;
                     Console.WriteLine(e.Key);
                     break;
                 case Key.Up:

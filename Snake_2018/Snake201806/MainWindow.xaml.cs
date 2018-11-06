@@ -26,7 +26,7 @@ namespace Snake201806
         public MainWindow()
         {
             InitializeComponent();
-            arena = new Arena();
+            arena = new Arena(this);
         }
 
         private void Window_KeyDown(object sender, KeyEventArgs e)
