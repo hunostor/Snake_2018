@@ -13,3 +13,6 @@ C:\Users\hunostor\source\repos\Snake_2018\Snake_2018\Snake201806\obj\Debug\Snake
 C:\Users\hunostor\source\repos\Snake_2018\Snake_2018\Snake201806\obj\Debug\Snake201806.csproj.CoreCompileInputs.cache
 C:\Users\hunostor\source\repos\Snake_2018\Snake_2018\Snake201806\obj\Debug\Snake201806.exe
 C:\Users\hunostor\source\repos\Snake_2018\Snake_2018\Snake201806\obj\Debug\Snake201806.pdb
+C:\Users\hunostor\source\repos\Snake_2018\Snake_2018\Snake201806\bin\Debug\FontAwesome.WPF.dll
+C:\Users\hunostor\source\repos\Snake_2018\Snake_2018\Snake201806\bin\Debug\FontAwesome.WPF.xml
+C:\Users\hunostor\source\repos\Snake_2018\Snake_2018\Snake201806\obj\Debug\Snake201806.csproj.CopyComplete

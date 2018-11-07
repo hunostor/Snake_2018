@@ -32,6 +32,7 @@ namespace Snake201806.Model
                 case Key.Left:
                     View.GamePlayTextBlock.Visibility = System.Windows.Visibility.Hidden;
                     View.NumberOfMealsTextBlock.Visibility = System.Windows.Visibility.Visible;
+                    View.ArenaGrid.Visibility = System.Windows.Visibility.Visible;
                     Console.WriteLine(e.Key);
                     break;
                 case Key.Up:
